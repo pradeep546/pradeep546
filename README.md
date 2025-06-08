@@ -9,7 +9,7 @@ Welcome! I am a Lead SRE with extensive experience supporting mission-critical, 
 ### 🏗️ Core Expertise
 
 - **Cloud & Infrastructure:** AWS, GCP, Kubernetes, Docker, Terraform, Ansible
-- **Observability & Monitoring:** Prometheus, Grafana, Datadog, ITRS Geneos
+- **Observability & Monitoring:** Prometheus, Grafana, Datadog, Dynatrace ITRS Geneos
 - **CI/CD & Automation:** Jenkins, GitHub Actions, ArgoCD
 - **Programming:** Python, Shell scripting
 - **Reliability Engineering:** Incident management, Disaster recovery, High availability architectures
